@@ -2,6 +2,8 @@
 
 새싹 미니 프로젝트 1조 - 윤태양, 이태훈, 임채범, 윤태웅, 박현주, 구은혜, 김혜리, 명소연, 고남욱, 황희선
 
+Google Drive 링크 : https://drive.google.com/drive/folders/1LOlnpVLHxFuKasexaPVc-rV8Zd2vba_g 
+
 ## 1. 프로젝트 목적
 - 비디오 데이터를 범주에 맞게 분류하는 기존 모델 코드에서 다양한 시도를 통해 정확도를 더 높이고자 진행하였다.
 
